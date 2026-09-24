@@ -22,6 +22,7 @@ Due to Hawaiʻi's unique housing market, constrained geography, and demographic 
 - Spatial autocorrelation analysis using `spdep`
 - LISA cluster analysis
 - Data visualization using `tmap` and `ggplot2`
+- Final map refinement and graphic design using Adobe Illustrator
 
 ## Key Findings
 
