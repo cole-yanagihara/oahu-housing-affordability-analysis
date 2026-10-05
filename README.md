@@ -79,19 +79,21 @@ Global Moran's I:
 
 To examine how neighborhood patterns changed over time, temporal Local Moran's I analyses were conducted from 2010–2024 using consistent k = 5 nearest neighbor spatial weights.
 
-### Rent Burden Change Over Time
+### Oʻahu-Wide Demographic and Housing Change
 
-Rent burden clusters demonstrated variability across the study period. While some high–high clusters persisted in urban Honolulu, overall rent burden patterns were less stable, suggesting that median rent alone may not fully capture long-term displacement pressure.
+Temporal analysis across Oʻahu revealed that rent burden patterns were relatively inconsistent over time, with some persistent clusters in urban Honolulu but limited long-term stability across the island.
 
-![Temporal Rent Burden LISA](figures/Figure_10.png)
+In contrast, Hawaiʻi-born population patterns demonstrated stronger and more persistent spatial clustering. High–high clusters remained concentrated in windward and leeward communities, while low–low clusters persisted in central Honolulu.
 
-### Hawaiʻi-Born Population Change Over Time
+![Oʻahu Temporal LISA Analysis](figures/Figure_10.png)
 
-Temporal LISA analysis revealed stronger and more persistent demographic clustering. High–high Hawaiʻi-born clusters remained concentrated in windward and leeward communities, while low–low clusters persisted in central Honolulu.
+### Honolulu Neighborhood Change
 
-Although some localized demographic shifts were observed in areas such as Kāhala and Kaimukī, these changes did not consistently correspond with increasing rent burden.
+A focused analysis of urban Honolulu was conducted to further examine potential demographic transitions in areas experiencing significant housing pressure.
 
-![Temporal Local Born LISA](figures/Figure_11.png)
+Temporal LISA analysis identified localized changes in areas such as Kāhala and Kaimukī, where Hawaiʻi-born population clusters weakened over time. However, these demographic shifts did not consistently correspond with increasing rent burden clusters, suggesting limited evidence of classic gentrification patterns.
+
+![Honolulu Temporal LISA Analysis](figures/Figure_11.png)
 
 ## Key Findings
 
